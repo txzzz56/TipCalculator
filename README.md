@@ -76,7 +76,3 @@ TipCalCulator2/
 1. Open the `TipCalCulator2` folder in Android Studio.
 2. Let Gradle sync finish.
 3. Choose an emulator or connected device and press **Run ▶**.
-
-## Author
-
-Mumtaz
